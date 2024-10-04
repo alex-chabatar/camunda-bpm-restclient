@@ -154,3 +154,11 @@ public class CamundaConfig {
  
 }
 ```
+
+### OWASP dependency check:
+```
+mvn dependency-check:aggregate -Pdependency-check
+```
+
+## License
+[Apache License, Version 2.0](./LICENSE)
