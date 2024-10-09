@@ -28,7 +28,7 @@
     <openapi-generator.useJakartaEe>false</openapi-generator.useJakartaEe>
 
     <!-- Camunda -->
-    <camunda.version>7.21.0</camunda.version>
+    <camunda.version>7.22.0</camunda.version>
 
     <!-- OWASP Vulnerability Checks, siehe https://jeremylong.github.io/DependencyCheck/dependency-check-maven/index.html -->
     <owaspcheck.version>8.4.3</owaspcheck.version>
