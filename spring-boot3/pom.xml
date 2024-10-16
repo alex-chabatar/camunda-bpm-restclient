@@ -5,7 +5,7 @@
   <parent>
     <groupId>camunda-bpm-examples</groupId>
     <artifactId>camunda-bpm-restclient-parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
   </parent>
 
   <artifactId>camunda-bpm-restclient-spring-boot3-starter</artifactId>
