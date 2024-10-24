@@ -16,7 +16,7 @@
   <properties>
 
     <version.java>17</version.java>
-    <spring.boot.version>3.3.4</spring.boot.version>
+    <spring.boot.version>3.3.5</spring.boot.version>
 
     <jakarta.annotation-api.version>2.1.1</jakarta.annotation-api.version>
 

@@ -22,7 +22,7 @@
     <spring.boot.version>2.7.18</spring.boot.version>
 
     <!-- Open API generator, Default is JDK1.8 & Spring Boot 2 -->
-    <openapi-generator.version>7.7.0</openapi-generator.version>
+    <openapi-generator.version>7.9.0</openapi-generator.version>
     <openapi-generator.java8>true</openapi-generator.java8>
     <openapi-generator.useSpringBoot3>false</openapi-generator.useSpringBoot3>
     <openapi-generator.useJakartaEe>false</openapi-generator.useJakartaEe>
@@ -32,8 +32,8 @@
 
     <!-- OWASP Vulnerability Checks, siehe https://jeremylong.github.io/DependencyCheck/dependency-check-maven/index.html -->
     <owaspcheck.version>8.4.3</owaspcheck.version>
-    <snakeyaml.version>2.2</snakeyaml.version> <!-- snakeyaml-1.30.jar: CVE-2022-25857(7.5) -->
-    <guava.version>33.3.0-jre</guava.version>
+    <snakeyaml.version>2.3</snakeyaml.version> <!-- snakeyaml-1.30.jar: CVE-2022-25857(7.5) -->
+    <guava.version>33.3.1-jre</guava.version>
 
   </properties>
 
