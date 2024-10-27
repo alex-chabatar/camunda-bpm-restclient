@@ -53,7 +53,7 @@ We support <mark>2 Versions</mark>:
 * Version for <mark>Spring Boot 2</mark> (last Version 2.7.18, see [here](https://spring.io/blog/2023/11/23/spring-boot-2-7-18-available-now#end-of-open-source-support-for-spring-boot-2x)) and <mark>JDK8+</mark>
     * camunda-bpm-restclient-spring (Spring 5.x)
     * camunda-bpm-restclient-spring-boot-starter
-* Version for <mark>Spring Boot 3</mark> (actual 3.3.4) and <mark>JDK17+</mark>
+* Version for <mark>Spring Boot 3</mark> (actual 3.3.5) and <mark>JDK17+</mark>
     * camunda-bpm-restclient-spring6 (Spring 6.x)
     * camunda-bpm-restclient-spring-boot3-starter
 
